@@ -1,14 +1,10 @@
-let a1:number =1
-a1=10
+let num =1
+num =3
 
-function add1 (a:number,b:number){
-    return a + b
-}
+let value1 = true
+  value1 =false
 
-const addAll = add1(2,5)
+//   const can't take changing value so use let 
 
-//heslow 
- a1 = addAll
-console.log(a1)
-
-// basic 
+  console.log( num)
+  console.log( value1) 

@@ -1,10 +1,8 @@
 "use strict";
-let a1 = 1;
-a1 = 10;
-function add1(a, b) {
-    return a + b;
-}
-const addAll = add1(2, 5);
-a1 = addAll;
-console.log(a1);
+let num = 1;
+num = 3;
+let value1 = true;
+value1 = false;
+console.log(num);
+console.log(value1);
 //# sourceMappingURL=index.js.map
