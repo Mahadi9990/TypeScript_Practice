@@ -1,10 +1,15 @@
-let num =1
-num =3
+// let numArray: number[] =[1,2,3,"4"] can't show result throw error
 
-let value1 = true
-  value1 =false
+let numArray: number[] =[1,2,3,4]
+let numArray1 =[1,2,3,4]
 
-//   const can't take changing value so use let 
+console.log(numArray)
+console.log(numArray1)
 
-  console.log( num)
-  console.log( value1) 
+// let numArray2: string[] =["1","2","3",4] can't show result throw error
+
+let numArray2: string[] =["1","2","3","4"]
+let numArray3 =["1","2","3","4"]
+
+console.log(numArray2)
+console.log(numArray3)
