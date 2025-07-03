@@ -10,3 +10,5 @@ const addAll = add1(2,5)
 //heslow 
  a1 = addAll
 console.log(a1)
+
+// basic 
