@@ -72,5 +72,16 @@
 
 // console.log(valueUndifine)
 
+                //   any  
+
+let numArray:any = 1
+// alawys try to not use any variable it
+numArray = '10'
+
+// tuples
+
+
+let numArray2:[string,number,object] =["10",10,{}]
+
 
 
